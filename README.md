@@ -8,7 +8,9 @@ Une première partie du projet a été consacrée a la prise en mains des outils
 
 
 Le rapport.pdf présente le projet plus en détail, la physique associée, le contexte et les résultats obtenus a la fin du stage. 
+
 Dans le fichier __journal_de_bord.pdf__ on trouve le déroulé semaine par semaine de nos avancées, ainsi que les détails techniques à savoir, notamment les différents modules/ packages à installer ou les erreurs qu'on a pu rencontrer. 
+
 le code Code_fit_Madgraph.py
 
  
