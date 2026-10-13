@@ -1,7 +1,7 @@
  # Test_DM_F3Sbr
 
 ## projet réalisé par : 
-- Alessandro
+- Victor Alessandro Sales Lopez
 - Sidi Mansour Malagouen
 - Laetitia Renard
 
