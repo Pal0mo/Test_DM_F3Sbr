@@ -8,7 +8,7 @@
   ## présentation du projet 
  Notre projet de stage consistait à imposer des contraintes sur un modèle de matière noire particulier. 
  On suppose dans notre cas que la matière noire est une particule, qui interagit avec le modèle standard grâce a une particule médiatrice. 
- Le rapport.pdf présente le projet plus en détail, la physique associée, le contexte et les résultats obtenus a la fin du stage. 
+ Le __rapport.pdf__ présente le projet plus en détail, la physique associée, le contexte et les résultats obtenus a la fin du stage. 
 
  Les objectifs sont : 
  
