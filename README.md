@@ -21,7 +21,7 @@
 
 
 ## installation
-Dans le fichier __journal_de_bord.pdf__ on trouve le déroulé semaine par semaine de nos avancées, ainsi que les détails techniques à savoir, notamment les différents modules/ packages à installer ou les erreurs qu'on a pu rencontrer. 
+Dans le fichier __journal_de_bord.pdf__ on trouve le déroulé semaine par semaine du projet , ainsi que les détails techniques,  à savoir : les différents modules/ packages à installer, les erreurs rencontrées et leurs solutions, l'emplacement des données dans madanalysis5 et autres. 
 
 
 
