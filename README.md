@@ -24,9 +24,6 @@
 Dans le fichier __journal_de_bord.pdf__ on trouve le déroulé semaine par semaine de nos avancées, ainsi que les détails techniques à savoir, notamment les différents modules/ packages à installer ou les erreurs qu'on a pu rencontrer. 
 
 
-## codes associés 
-le code Code_fit_Madgraph.py
 
- 
  
  
