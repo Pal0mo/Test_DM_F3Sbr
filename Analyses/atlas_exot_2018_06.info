@@ -1,0 +1,200 @@
+<!--
+this XML file serves for the statistical interpretation of the MA5 simulation. 
+it lists the number of observed events <nobs>, number of expected backgrounds <nb> 
+and number of background uncertainty <deltanb> in each of the regions  
+-->
+
+<!--
+to be put in the same directory as the analysis code,
+i.e. Build/SampleAnalyzer/User/Analyzer/
+-->
+
+<analysis id="atlas_exot_2018_06">
+  <lumi>139</lumi> <!-- in fb^-1 -->
+
+  <!--  signal regions -->
+
+  <!--
+     region definition: the attribute "id" has to match the name of the region
+     as defined in the analysis code;
+     the attribute "type" can be "signal" or "control" and is optional (default=signal)
+     when results are given after combination of several signal regions
+     (as is the case here: SF instead of ee and mumu separately)
+     the signal regions should be given in the attribute "id" separated by
+     semicolons
+  -->
+<region type="signal" id="IM0">
+    <nobs>3148643</nobs>
+    <nb>3120000</nb>
+    <deltanb>40000</deltanb>
+  </region>
+
+<region type="signal" id="IM1">
+    <nobs>1357019</nobs>
+    <nb>1346000</nb>
+    <deltanb>16000</deltanb>
+  </region>
+
+<region type="signal" id="IM2">
+    <nobs>604691</nobs>
+    <nb>597000</nb>
+    <deltanb>8000</deltanb>
+  </region>
+
+<region type="signal" id="IM3">
+    <nobs>290779</nobs>
+    <nb>286000</nb>
+    <deltanb>4000</deltanb>
+  </region>
+
+
+<region type="signal" id="IM4">
+    <nobs>149743</nobs>
+    <nb>146400</nb>
+    <deltanb>2300</deltanb>
+  </region>
+
+<region type="signal" id="IM5">
+    <nobs>46855</nobs>
+    <nb>45550</nb>
+    <deltanb>1000</deltanb>
+  </region>
+
+<region type="signal" id="IM6">
+    <nobs>17397</nobs>
+    <nb>16800</nb>
+    <deltanb>500</deltanb>
+  </region>
+
+
+<region type="signal" id="IM7">
+    <nobs>7194</nobs>
+    <nb>7070</nb>
+    <deltanb>240</deltanb>
+  </region>
+
+<region type="signal" id="IM8">
+    <nobs>3208</nobs>
+    <nb>3180</nb>
+    <deltanb>130</deltanb>
+  </region>
+
+<region type="signal" id="IM9">
+    <nobs>1545</nobs>
+    <nb>1560</nb>
+    <deltanb>80</deltanb>
+  </region>
+
+<region type="signal" id="IM10">
+    <nobs>807</nobs>
+    <nb>720</nb>
+    <deltanb>60</deltanb>
+  </region>
+
+
+<region type="signal" id="IM11">
+    <nobs>394</nobs>
+    <nb>407</nb>
+    <deltanb>34</deltanb>
+  </region>
+
+
+<region type="signal" id="IM12">
+    <nobs>207</nobs>
+    <nb>223</nb>
+    <deltanb>19</deltanb>
+  </region>
+
+
+<region type="signal" id="EM0">
+    <nobs>1791624</nobs>
+    <nb>1783000</nb>
+    <deltanb>26000</deltanb>
+  </region>
+
+
+<region type="signal" id="EM1">
+    <nobs>752328</nobs>
+    <nb>753000</nb>
+    <deltanb>9000</deltanb>
+  </region>
+
+
+<region type="signal" id="EM2">
+    <nobs>313912</nobs>
+    <nb>314000</nb>
+    <deltanb>3500</deltanb>
+  </region>
+
+
+<region type="signal" id="EM3">
+    <nobs>141036</nobs>
+    <nb>140100</nb>
+    <deltanb>1600</deltanb>
+  </region>
+
+
+<region type="signal" id="EM4">
+    <nobs>102888</nobs>
+    <nb>101600</nb>
+    <deltanb>1200</deltanb>
+  </region>
+
+
+<region type="signal" id="EM5">
+    <nobs>29458</nobs>
+    <nb>29200</nb>
+    <deltanb>400</deltanb>
+  </region>
+
+
+<region type="signal" id="EM6">
+    <nobs>10203</nobs>
+    <nb>10000</nb>
+    <deltanb>180</deltanb>
+  </region>
+
+
+<region type="signal" id="EM7">
+    <nobs>3986</nobs>
+    <nb>3870</nb>
+    <deltanb>80</deltanb>
+  </region>
+
+
+<region type="signal" id="EM8">
+    <nobs>1663</nobs>
+    <nb>1640</nb>
+    <deltanb>40</deltanb>
+  </region>
+
+
+<region type="signal" id="EM9">
+    <nobs>738</nobs>
+    <nb>754</nb>
+    <deltanb>20</deltanb>
+  </region>
+
+
+<region type="signal" id="EM10">
+    <nobs>413</nobs>
+    <nb>359</nb>
+    <deltanb>10</deltanb>
+  </region>
+
+
+<region type="signal" id="EM11">
+    <nobs>187</nobs>
+    <nb>182</nb>
+    <deltanb>6</deltanb>
+  </region>
+
+
+<region type="signal" id="EM12">
+    <nobs>207</nobs>
+    <nb>218</nb>
+    <deltanb>9</deltanb>
+  </region>
+  
+
+</analysis>

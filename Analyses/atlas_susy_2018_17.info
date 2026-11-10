@@ -1,0 +1,52 @@
+<analysis id="atlas_susy_2018_17">
+  <lumi>139</lumi> <!-- in fb^-1 -->
+
+  <region type="signal" id="SR-8ij50-0ib-MJ500">
+    <nobs>747</nobs>
+    <nb>750</nb>
+    <deltanb>120</deltanb>
+  </region>
+
+  <region type="signal" id="SR-9ij50-0ib-MJ340">
+    <nobs>588</nobs>
+    <nb>614</nb>
+    <deltanb>97</deltanb>
+  </region>
+
+  <region type="signal" id="SR-10ij50-0ib-MJ340">
+    <nobs>116</nobs>
+    <nb>136</nb>
+    <deltanb>28</deltanb>
+  </region>
+
+  <region type="signal" id="SR-10ij50-0ib-MJ500">
+    <nobs>58</nobs>
+    <nb>68</nb>
+    <deltanb>18</deltanb>
+  </region>
+
+  <region type="signal" id="SR-10ij50-1ib-MJ500">
+    <nobs>42</nobs>
+    <nb>56</nb>
+    <deltanb>13</deltanb>
+  </region>
+
+  <region type="signal" id="SR-11ij50">
+    <nobs>23</nobs>
+    <nb>27</nb>
+    <deltanb>7.3</deltanb>
+  </region>
+
+  <region type="signal" id="SR-12ij50-2ib">
+    <nobs>2</nobs>
+    <nb>2.4</nb>
+    <deltanb>1.7</deltanb>
+  </region>
+
+  <region type="signal" id="SR-9ij80">
+    <nobs>48</nobs>
+    <nb>45.6</nb>
+    <deltanb>9.5</deltanb>
+  </region>
+
+</analysis>

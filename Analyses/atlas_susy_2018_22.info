@@ -1,0 +1,538 @@
+<analysis id="ATLAS_SUSY_2018_22">
+ <lumi>139.0</lumi> <!-- in fb^-1 -->
+<region type="signal" id="MB_C_SR_2_1600_16">
+<nobs>908</nobs>
+<nb>867.1201051622629</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_2_1600_22">
+<nobs>2108</nobs>
+<nb>1908.4791640937328</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_2_2200_16">
+<nobs>107</nobs>
+<nb>109.06945710256696</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_2_2200_22">
+<nobs>406</nobs>
+<nb>360.0468308478594</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_2_2800_16">
+<nobs>37</nobs>
+<nb>23.93355392664671</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_2_2800_22">
+<nobs>85</nobs>
+<nb>86.02406339719892</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_1600_16">
+<nobs>274</nobs>
+<nb>323.83619041740894</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_1600_22">
+<nobs>213</nobs>
+<nb>248.07319727167487</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_2200_16">
+<nobs>54</nobs>
+<nb>64.7416063323617</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_2200_22">
+<nobs>98</nobs>
+<nb>103.70781765133142</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_2800_16">
+<nobs>16</nobs>
+<nb>13.621167913079262</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_4_2800_22">
+<nobs>25</nobs>
+<nb>34.21885800361633</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_1600_16">
+<nobs>126</nobs>
+<nb>176.30286970362067</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_1600_22">
+<nobs>51</nobs>
+<nb>67.03746891021729</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_2200_16">
+<nobs>57</nobs>
+<nb>74.09920909255743</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_2200_22">
+<nobs>47</nobs>
+<nb>59.0250447280705</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_2800_16">
+<nobs>15</nobs>
+<nb>20.69395236670971</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_C_SR_5_2800_22">
+<nobs>24</nobs>
+<nb>30.13349485397339</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1000_10">
+<nobs>1281</nobs>
+<nb>1366.1090210676193</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1000_16">
+<nobs>240</nobs>
+<nb>279.09122778475285</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1000_22">
+<nobs>35</nobs>
+<nb>29.980091143399477</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1600_10">
+<nobs>228</nobs>
+<nb>266.99111449718475</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1600_16">
+<nobs>95</nobs>
+<nb>114.39840793609619</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_1600_22">
+<nobs>44</nobs>
+<nb>47.24136524274945</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2200_10">
+<nobs>57</nobs>
+<nb>42.56487461924553</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2200_16">
+<nobs>23</nobs>
+<nb>24.740894556045532</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2200_22">
+<nobs>15</nobs>
+<nb>18.851634800434113</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2800_10">
+<nobs>4</nobs>
+<nb>6.473551273345947</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2800_16">
+<nobs>5</nobs>
+<nb>5.012997478246689</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_2800_22">
+<nobs>8</nobs>
+<nb>5.331337168812752</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_3400_10">
+<nobs>2</nobs>
+<nb>1.4372354969382286</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_3400_16">
+<nobs>1</nobs>
+<nb>0.9214032590389252</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_3400_22">
+<nobs>0</nobs>
+<nb>1.5170793635770679</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_4000_10">
+<nobs>0</nobs>
+<nb>0.3500812421552837</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_4000_16">
+<nobs>0</nobs>
+<nb>0.1473403936251998</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_GGd_SR_4_4000_22">
+<nobs>1</nobs>
+<nb>0.38564411364495754</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1000_10">
+<nobs>6986</nobs>
+<nb>6577.452586174011</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1000_16">
+<nobs>2537</nobs>
+<nb>2425.252433180809</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1000_22">
+<nobs>1289</nobs>
+<nb>1201.9116120934486</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1600_10">
+<nobs>926</nobs>
+<nb>851.6342865228653</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1600_16">
+<nobs>526</nobs>
+<nb>509.49522390961647</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_1600_22">
+<nobs>638</nobs>
+<nb>575.9264894500375</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_2200_16">
+<nobs>55</nobs>
+<nb>62.24979381635785</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_2200_22">
+<nobs>146</nobs>
+<nb>136.0061613097787</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_2800_16">
+<nobs>17</nobs>
+<nb>13.680841892957687</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_2800_22">
+<nobs>29</nobs>
+<nb>33.89251336455345</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_3400_22">
+<nobs>3</nobs>
+<nb>3.2983879521489143</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_3400_28">
+<nobs>6</nobs>
+<nb>11.18130162358284</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_4000_22">
+<nobs>1</nobs>
+<nb>1.155742608010769</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_2_4000_28">
+<nobs>5</nobs>
+<nb>3.930699110031128</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1000_10">
+<nobs>7769</nobs>
+<nb>8481.869314193726</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1000_16">
+<nobs>4286</nobs>
+<nb>4488.600347995758</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1000_22">
+<nobs>858</nobs>
+<nb>899.6731487959623</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1600_10">
+<nobs>819</nobs>
+<nb>983.2757046222687</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1600_16">
+<nobs>461</nobs>
+<nb>556.4829304665327</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_1600_22">
+<nobs>485</nobs>
+<nb>511.82487116754055</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_2200_16">
+<nobs>71</nobs>
+<nb>78.64401194732636</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_2200_22">
+<nobs>113</nobs>
+<nb>135.44446554407477</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_2800_16">
+<nobs>17</nobs>
+<nb>15.59698748588562</nb>
+<deltanb>0</deltanb>
+</region>
+
+<region type="signal" id="MB_SSd_SR_4_2800_22">
+<nobs>25</nobs>
+<nb>32.09311127662659</nb>
+<deltanb>0</deltanb>
+</region>
+
+ <pyhf id="MB_C">
+ <name>atlas_susy_2018_22_C.json</name>
+<regions>
+<channel name="CRQ_2_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_2_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_2_2800_cuts" is_included="True"></channel>
+<channel name="CRQ_4_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2800_cuts" is_included="True"></channel>
+<channel name="CRQ_5_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_5_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_5_2800_cuts" is_included="True"></channel>
+<channel name="CRT_2_1600_cuts" is_included="True"></channel>
+<channel name="CRT_2_2200_cuts" is_included="True"></channel>
+<channel name="CRT_2_2800_cuts" is_included="True"></channel>
+<channel name="CRT_4_1600_cuts" is_included="True"></channel>
+<channel name="CRT_4_2200_cuts" is_included="True"></channel>
+<channel name="CRT_4_2800_cuts" is_included="True"></channel>
+<channel name="CRT_5_1600_cuts" is_included="True"></channel>
+<channel name="CRT_5_2200_cuts" is_included="True"></channel>
+<channel name="CRT_5_2800_cuts" is_included="True"></channel>
+<channel name="CRW_2_1600_cuts" is_included="True"></channel>
+<channel name="CRW_2_2200_cuts" is_included="True"></channel>
+<channel name="CRW_2_2800_cuts" is_included="True"></channel>
+<channel name="CRW_4_1600_cuts" is_included="True"></channel>
+<channel name="CRW_4_2200_cuts" is_included="True"></channel>
+<channel name="CRW_4_2800_cuts" is_included="True"></channel>
+<channel name="CRW_5_1600_cuts" is_included="True"></channel>
+<channel name="CRW_5_2200_cuts" is_included="True"></channel>
+<channel name="CRW_5_2800_cuts" is_included="True"></channel>
+<channel name="CRY_2_1600_cuts" is_included="True"></channel>
+<channel name="CRY_2_2200_cuts" is_included="True"></channel>
+<channel name="CRY_2_2800_cuts" is_included="True"></channel>
+<channel name="CRY_4_1600_cuts" is_included="True"></channel>
+<channel name="CRY_4_2200_cuts" is_included="True"></channel>
+<channel name="CRY_4_2800_cuts" is_included="True"></channel>
+<channel name="CRY_5_1600_cuts" is_included="True"></channel>
+<channel name="CRY_5_2200_cuts" is_included="True"></channel>
+<channel name="CRY_5_2800_cuts" is_included="True"></channel>
+<channel name="SR_2_1600_16_cuts">MB_C_SR_2_1600_16</channel>
+<channel name="SR_2_1600_22_cuts">MB_C_SR_2_1600_22</channel>
+<channel name="SR_2_2200_16_cuts">MB_C_SR_2_2200_16</channel>
+<channel name="SR_2_2200_22_cuts">MB_C_SR_2_2200_22</channel>
+<channel name="SR_2_2800_16_cuts">MB_C_SR_2_2800_16</channel>
+<channel name="SR_2_2800_22_cuts">MB_C_SR_2_2800_22</channel>
+<channel name="SR_4_1600_16_cuts">MB_C_SR_4_1600_16</channel>
+<channel name="SR_4_1600_22_cuts">MB_C_SR_4_1600_22</channel>
+<channel name="SR_4_2200_16_cuts">MB_C_SR_4_2200_16</channel>
+<channel name="SR_4_2200_22_cuts">MB_C_SR_4_2200_22</channel>
+<channel name="SR_4_2800_16_cuts">MB_C_SR_4_2800_16</channel>
+<channel name="SR_4_2800_22_cuts">MB_C_SR_4_2800_22</channel>
+<channel name="SR_5_1600_16_cuts">MB_C_SR_5_1600_16</channel>
+<channel name="SR_5_1600_22_cuts">MB_C_SR_5_1600_22</channel>
+<channel name="SR_5_2200_16_cuts">MB_C_SR_5_2200_16</channel>
+<channel name="SR_5_2200_22_cuts">MB_C_SR_5_2200_22</channel>
+<channel name="SR_5_2800_16_cuts">MB_C_SR_5_2800_16</channel>
+<channel name="SR_5_2800_22_cuts">MB_C_SR_5_2800_22</channel>
+</regions>
+</pyhf>
+ <pyhf id="MB_GGd">
+ <name>atlas_susy_2018_22_GGd.json</name>
+<regions>
+<channel name="CRQ_4_1000_cuts" is_included="True"></channel>
+<channel name="CRQ_4_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2800_cuts" is_included="True"></channel>
+<channel name="CRQ_4_3400_cuts" is_included="True"></channel>
+<channel name="CRQ_4_4000_cuts" is_included="True"></channel>
+<channel name="CRT_4_1000_cuts" is_included="True"></channel>
+<channel name="CRT_4_1600_cuts" is_included="True"></channel>
+<channel name="CRT_4_2200_cuts" is_included="True"></channel>
+<channel name="CRT_4_2800_cuts" is_included="True"></channel>
+<channel name="CRT_4_3400_cuts" is_included="True"></channel>
+<channel name="CRT_4_4000_cuts" is_included="True"></channel>
+<channel name="CRW_4_1000_cuts" is_included="True"></channel>
+<channel name="CRW_4_1600_cuts" is_included="True"></channel>
+<channel name="CRW_4_2200_cuts" is_included="True"></channel>
+<channel name="CRW_4_2800_cuts" is_included="True"></channel>
+<channel name="CRW_4_3400_cuts" is_included="True"></channel>
+<channel name="CRW_4_4000_cuts" is_included="True"></channel>
+<channel name="CRY_4_1000_cuts" is_included="True"></channel>
+<channel name="CRY_4_1600_cuts" is_included="True"></channel>
+<channel name="CRY_4_2200_cuts" is_included="True"></channel>
+<channel name="CRY_4_2800_cuts" is_included="True"></channel>
+<channel name="CRY_4_3400_cuts" is_included="True"></channel>
+<channel name="CRY_4_4000_cuts" is_included="True"></channel>
+<channel name="SR_4_1000_10_cuts">MB_GGd_SR_4_1000_10</channel>
+<channel name="SR_4_1000_16_cuts">MB_GGd_SR_4_1000_16</channel>
+<channel name="SR_4_1000_22_cuts">MB_GGd_SR_4_1000_22</channel>
+<channel name="SR_4_1600_10_cuts">MB_GGd_SR_4_1600_10</channel>
+<channel name="SR_4_1600_16_cuts">MB_GGd_SR_4_1600_16</channel>
+<channel name="SR_4_1600_22_cuts">MB_GGd_SR_4_1600_22</channel>
+<channel name="SR_4_2200_10_cuts">MB_GGd_SR_4_2200_10</channel>
+<channel name="SR_4_2200_16_cuts">MB_GGd_SR_4_2200_16</channel>
+<channel name="SR_4_2200_22_cuts">MB_GGd_SR_4_2200_22</channel>
+<channel name="SR_4_2800_10_cuts">MB_GGd_SR_4_2800_10</channel>
+<channel name="SR_4_2800_16_cuts">MB_GGd_SR_4_2800_16</channel>
+<channel name="SR_4_2800_22_cuts">MB_GGd_SR_4_2800_22</channel>
+<channel name="SR_4_3400_10_cuts">MB_GGd_SR_4_3400_10</channel>
+<channel name="SR_4_3400_16_cuts">MB_GGd_SR_4_3400_16</channel>
+<channel name="SR_4_3400_22_cuts">MB_GGd_SR_4_3400_22</channel>
+<channel name="SR_4_4000_10_cuts">MB_GGd_SR_4_4000_10</channel>
+<channel name="SR_4_4000_16_cuts">MB_GGd_SR_4_4000_16</channel>
+<channel name="SR_4_4000_22_cuts">MB_GGd_SR_4_4000_22</channel>
+</regions>
+</pyhf>
+ <pyhf id="MB_SSd">
+ <name>atlas_susy_2018_22_SSd.json</name>
+<regions>
+<channel name="CRQ_2_1000_cuts" is_included="True"></channel>
+<channel name="CRQ_2_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_2_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_2_2800_cuts" is_included="True"></channel>
+<channel name="CRQ_2_3400_cuts" is_included="True"></channel>
+<channel name="CRQ_2_4000_cuts" is_included="True"></channel>
+<channel name="CRQ_4_1000_cuts" is_included="True"></channel>
+<channel name="CRQ_4_1600_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2200_cuts" is_included="True"></channel>
+<channel name="CRQ_4_2800_cuts" is_included="True"></channel>
+<channel name="CRT_2_1000_cuts" is_included="True"></channel>
+<channel name="CRT_2_1600_cuts" is_included="True"></channel>
+<channel name="CRT_2_2200_cuts" is_included="True"></channel>
+<channel name="CRT_2_2800_cuts" is_included="True"></channel>
+<channel name="CRT_2_3400_cuts" is_included="True"></channel>
+<channel name="CRT_2_4000_cuts" is_included="True"></channel>
+<channel name="CRT_4_1000_cuts" is_included="True"></channel>
+<channel name="CRT_4_1600_cuts" is_included="True"></channel>
+<channel name="CRT_4_2200_cuts" is_included="True"></channel>
+<channel name="CRT_4_2800_cuts" is_included="True"></channel>
+<channel name="CRW_2_1000_cuts" is_included="True"></channel>
+<channel name="CRW_2_1600_cuts" is_included="True"></channel>
+<channel name="CRW_2_2200_cuts" is_included="True"></channel>
+<channel name="CRW_2_2800_cuts" is_included="True"></channel>
+<channel name="CRW_2_3400_cuts" is_included="True"></channel>
+<channel name="CRW_2_4000_cuts" is_included="True"></channel>
+<channel name="CRW_4_1000_cuts" is_included="True"></channel>
+<channel name="CRW_4_1600_cuts" is_included="True"></channel>
+<channel name="CRW_4_2200_cuts" is_included="True"></channel>
+<channel name="CRW_4_2800_cuts" is_included="True"></channel>
+<channel name="CRY_2_1000_cuts" is_included="True"></channel>
+<channel name="CRY_2_1600_cuts" is_included="True"></channel>
+<channel name="CRY_2_2200_cuts" is_included="True"></channel>
+<channel name="CRY_2_2800_cuts" is_included="True"></channel>
+<channel name="CRY_2_3400_cuts" is_included="True"></channel>
+<channel name="CRY_2_4000_cuts" is_included="True"></channel>
+<channel name="CRY_4_1000_cuts" is_included="True"></channel>
+<channel name="CRY_4_1600_cuts" is_included="True"></channel>
+<channel name="CRY_4_2200_cuts" is_included="True"></channel>
+<channel name="CRY_4_2800_cuts" is_included="True"></channel>
+<channel name="SR_2_1000_10_cuts">MB_SSd_SR_2_1000_10</channel>
+<channel name="SR_2_1000_16_cuts">MB_SSd_SR_2_1000_16</channel>
+<channel name="SR_2_1000_22_cuts">MB_SSd_SR_2_1000_22</channel>
+<channel name="SR_2_1600_10_cuts">MB_SSd_SR_2_1600_10</channel>
+<channel name="SR_2_1600_16_cuts">MB_SSd_SR_2_1600_16</channel>
+<channel name="SR_2_1600_22_cuts">MB_SSd_SR_2_1600_22</channel>
+<channel name="SR_2_2200_16_cuts">MB_SSd_SR_2_2200_16</channel>
+<channel name="SR_2_2200_22_cuts">MB_SSd_SR_2_2200_22</channel>
+<channel name="SR_2_2800_16_cuts">MB_SSd_SR_2_2800_16</channel>
+<channel name="SR_2_2800_22_cuts">MB_SSd_SR_2_2800_22</channel>
+<channel name="SR_2_3400_22_cuts">MB_SSd_SR_2_3400_22</channel>
+<channel name="SR_2_3400_28_cuts">MB_SSd_SR_2_3400_28</channel>
+<channel name="SR_2_4000_22_cuts">MB_SSd_SR_2_4000_22</channel>
+<channel name="SR_2_4000_28_cuts">MB_SSd_SR_2_4000_28</channel>
+<channel name="SR_4_1000_10_cuts">MB_SSd_SR_4_1000_10</channel>
+<channel name="SR_4_1000_16_cuts">MB_SSd_SR_4_1000_16</channel>
+<channel name="SR_4_1000_22_cuts">MB_SSd_SR_4_1000_22</channel>
+<channel name="SR_4_1600_10_cuts">MB_SSd_SR_4_1600_10</channel>
+<channel name="SR_4_1600_16_cuts">MB_SSd_SR_4_1600_16</channel>
+<channel name="SR_4_1600_22_cuts">MB_SSd_SR_4_1600_22</channel>
+<channel name="SR_4_2200_16_cuts">MB_SSd_SR_4_2200_16</channel>
+<channel name="SR_4_2200_22_cuts">MB_SSd_SR_4_2200_22</channel>
+<channel name="SR_4_2800_16_cuts">MB_SSd_SR_4_2800_16</channel>
+<channel name="SR_4_2800_22_cuts">MB_SSd_SR_4_2800_22</channel>
+</regions>
+</pyhf>
+</analysis>
